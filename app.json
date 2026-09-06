@@ -1,0 +1,28 @@
+{
+  "name": "CosmoWords",
+  "storeName": {
+    "ios": "Cosmo Words: Crossword Puzzle",
+    "android": "Cosmo Words: Crossword Puzzle"
+  },
+  "developer": {
+    "name": "First Point",
+    "legalName": "First Point Yazılım Limited Şirketi",
+    "url": "https://firstpoint.com.tr",
+    "wikidata": "Q141016074",
+    "github": "https://github.com/First-Point"
+  },
+  "platforms": ["ios", "android"],
+  "category": "Games",
+  "genre": ["Word", "Puzzle"],
+  "price": "free",
+  "stores": {
+    "appStore": "https://apps.apple.com/us/app/cosmo-words-crossword-puzzle/id6758676254",
+    "googlePlay": "https://play.google.com/store/apps/details?id=com.cosmowords.game.crossword"
+  },
+  "website": "https://cosmowords.games",
+  "privacyPolicy": "https://cosmowords.games/privacy-policy.html",
+  "terms": "https://cosmowords.games/terms-of-service.html",
+  "accessibility": "https://cosmowords.games/accessibility.html",
+  "support": "mailto:contact@firstpoint.com.tr",
+  "updated": "2026-09-07"
+}
